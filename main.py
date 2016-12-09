@@ -1,10 +1,7 @@
 import wave
 import struct
 import math
+import pygame
+import sys
 import random
-
-framevalues = []
-
-def decoder():
-    import wave
-    import struct
+from pygame.locals import *
